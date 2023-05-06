@@ -9,4 +9,5 @@
 ## 如何获取 机器人的token
 
 1、打开 telegram,搜索框输入@BotFather
+
 2、点击 START，选择/newbot，输入你要创建的 bot 机器人名称：必须 tg 全局唯一，且以 bot 结尾
